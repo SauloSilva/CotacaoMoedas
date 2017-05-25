@@ -4,7 +4,7 @@ import {merge} from 'lodash';
 
 let initialState = {org: null, name: null, password: null};
 
-export const user = createReducer({org: 'NeoCambio', name: 'NeoCambio', password:  'Moedas2017'}, {
+export const user = createReducer(initialState, {
   [types.SET_USER_ORG](state, action) {
     return {
       ...state,
