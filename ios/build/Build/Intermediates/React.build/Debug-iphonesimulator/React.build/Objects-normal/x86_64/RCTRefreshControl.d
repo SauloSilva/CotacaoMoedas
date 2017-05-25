@@ -1,7 +1,0 @@
-dependencies: \
-  /Users/saulodasilva/study/CotacaoMoedas/node_modules/react-native/React/Views/RCTRefreshControl.m \
-  /Users/saulodasilva/study/CotacaoMoedas/node_modules/react-native/React/Views/RCTRefreshControl.h \
-  /Users/saulodasilva/study/CotacaoMoedas/node_modules/react-native/React/Views/RCTComponent.h \
-  /Users/saulodasilva/study/CotacaoMoedas/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/saulodasilva/study/CotacaoMoedas/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/saulodasilva/study/CotacaoMoedas/node_modules/react-native/React/Base/RCTDefines.h

@@ -1,15 +1,19 @@
 # IntelliJ/Webstorm
-# .idea
+.idea
 
 # NodeJS
-# npm-debug.log
-# node_modules
-# lib-rn
-# lib
-# yarn-error.log
+npm-debug.log
+node_modules
+lib-rn
+lib
+yarn-error.log
 
 # OS X
-# .DS_Store
+.DS_Store
+
+# Builds
+ios/build
+android/build
 
 # Exponent
-# .expo
+.expo
